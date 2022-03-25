@@ -31,5 +31,3 @@
   
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/jakson011/jakson011/blob/output/github-contribution-grid-snake.svg)
-
-
