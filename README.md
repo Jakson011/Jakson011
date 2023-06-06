@@ -1,4 +1,4 @@
-## Hello I'm Maikon, full stack software developer
+## Olá, sou o Maikon, desenvolvedor de software
 
 <div align="center">
   <a href="https://github.com/jakson011">
