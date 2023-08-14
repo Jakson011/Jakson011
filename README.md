@@ -25,8 +25,3 @@
       <a href="https://instagram.com/maikonjakson_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mjakson.pb11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
-<br/> 
-
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/jakson011/jakson011/blob/output/github-contribution-grid-snake.svg)
