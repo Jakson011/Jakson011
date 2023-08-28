@@ -16,9 +16,7 @@
   <img align="center" alt="Jakson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jakson-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-
 ## Connect with me:
-
   <div> 
   <a href="https://www.linkedin.com/in/maikonjakson-fs11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://mj-fullstackdeveloper.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-9146FF?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
